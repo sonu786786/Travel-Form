@@ -1,3 +1,3 @@
-Language : PHP
-Database : SQL
+Language : PHP <br>
+Database : SQL <br>
 Styling : CSS
